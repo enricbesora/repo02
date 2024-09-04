@@ -40,3 +40,23 @@
 - [x] Hacer el commit local
 - [x] Hacer el push al remoto
 - [x] Comprovar que nada esta en llamas🔥
+
+## Diferentes aplicaciones de markdown
+
+En esta parte del readme, veremos diferentes aplicaciones de markdown con ejemplos:
+
+| |Facilidad | Control| Visual  | Total |
+|:--- |:----: |:----:| :----:| :----: |
+| Consola| 6 | 10 | 2  | 18|
+| Visual| 9 | 7 | 10  | 26 |
+
+Como podemos observar, en interficie el *git* es **mejor** 🤯
+
+Pero es verdad que a nivel alto el *git* en consola permite un control superior 🤔
+
+Realmente, el git es como los ogros y las cebollas:
+
+>"Los ogros son como las cebollas, tienen muchas capas" – Shrek.
+>>Frase de la película
+>>> [Shrek](https://www.imdb.com/title/tt0126029/ "La 2 es la mejor")
+
