@@ -45,14 +45,22 @@
 
 En esta parte del readme, veremos diferentes aplicaciones de markdown con ejemplos:
 
+Tablas
+*** 
 | |Facilidad | Control| Visual  | Total |
 |:--- |:----: |:----:| :----:| :----: |
 | Consola| 6 | 10 | 2  | 18|
 | Visual| 9 | 7 | 10  | 26 |
 
+Negrita y cursiva
+*** 
+
 Como podemos observar, en interficie el *git* es **mejor** 🤯
 
 Pero es verdad que a nivel alto el *git* en consola permite un control superior 🤔
+
+Paragrafos y links
+*** 
 
 Realmente, el git es como los ogros y las cebollas:
 
@@ -60,3 +68,15 @@ Realmente, el git es como los ogros y las cebollas:
 >>Frase de la película
 >>> [Shrek](https://www.imdb.com/title/tt0126029/ "La 2 es la mejor")
 
+
+
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+| :zap:        Ignore at your own risk!   |
+|-----------------------------------------|
+| :warning: WARNING          |
+|:---------------------------|
+| I should warn you ...      |
+| :boom: DONT WATCH SHREK 3              |
+|:---------------------------|
+| It's really bad! |
